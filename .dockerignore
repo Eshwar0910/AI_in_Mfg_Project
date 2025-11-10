@@ -1,0 +1,16 @@
+__pycache__
+myenv
+.git
+.gitignore
+*.pyc
+*.pyo
+*.pyd
+*.keras
+*.h5
+*.ipynb
+reference_ok_images
+*.log
+venv/
+env/
+__MACOSX
+node_modules

@@ -1,0 +1,23 @@
+# Ignore Python virtual environments
+myenv/
+venv/
+
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment and system files
+.env
+.DS_Store
+
+# Model files handled by LFS
+*.keras
+*.h5
+*.pth
